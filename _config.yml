@@ -1,10 +1,10 @@
 # Site settings
-title: hwyqb Blog
+title: 和我一起吧 Blog
 SEOTitle: 和我一起吧 | hwyqb Blog
 header-img: img/home-bg.jpg
 email: xjfme@qq.com
 description: "和我一起吧是专注Java后端开发的个人技术博客，用于个人技术积累和分享 | 我秃了，也变强了。"
-keyword: "Java,后端开发,JVM,Spring,和我一起吧,成长"
+keyword: "Java,后端开发,JVM,Spring,和我一起吧"
 url: "http://hwyqb.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
