@@ -7,6 +7,7 @@ header-style: text
 tags:
   - Web
   - 知乎
+typora-root-url: ..\
 ---
 
 > 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/57601873/answer/155685476)
@@ -16,6 +17,8 @@ tags:
 首先要理解的是 DOM 是 API，是一组无关编程语言的接口（Interfaces）而非实现（Implementation）。前端平时常说的 DOM 其实只是浏览器通过 ECMAScript（JavaScript）对 DOM 接口的一种实现。
 
 其次要知道的是，DOM 既是为 HTML 制定的，也是为 XML 制定的。而两者各有一些特异的部分，所以作为 DOM 标准基石的 DOM Level 1 其实分为 Core 与 HTML 两个部分。Core 定义了 fundamental interfaces 与 extended interfaces，分别是共用的基础接口与 「XML 拓展包」，而 HTML 部分则全都是「HTML 拓展包」。题主所问到的 Document 接口被定义在 Core 的 fundamental interfaces 中，而 HTMLDocument 接口则定义在 HTML 部分中，且「接口继承」于 Document。
+
+![image-20201226170535478](/img/in-post/2017-04-06-html-document/image-20201226170535478.png)
 
 这种继承关系当然是可以在 JavaScript 的 DOM 实现中体现出来的：
 

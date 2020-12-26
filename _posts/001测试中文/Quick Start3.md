@@ -24,7 +24,7 @@ Thank you for choosing **Typora**. This document will help you to start Typora. 
 
 You could switch to source code mode temporary from menu bar, footer bar or short cut key (`ctrl+/`). But we only provide very basic support for source code mode and won't recommend users to do so.
 
-
+![image-20201226165721445](../../img/Quick Start3/image-20201226165721445.png)
 
 `111`
 

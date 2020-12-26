@@ -9,6 +9,7 @@ catalog: true
 tags:
     - Life
     - Meta
+typora-root-url: ..\..\
 ---
 # Welcome
 
@@ -23,6 +24,11 @@ Thank you for choosing **Typora**. This document will help you to start Typora. 
 **Note**: Markdown tags for inline styles, such as `**` will be hidden or displayed smartly. Markdown tags for block level styles, such as `###` or `- [x]` will be hidden once the block is rendered.
 
 You could switch to source code mode temporary from menu bar, footer bar or short cut key (`ctrl+/`). But we only provide very basic support for source code mode and won't recommend users to do so.
+
+
+
+![image-20201226170322201](/img/in-post/2017-01-01-Quick Start/image-20201226170322201.png)
+
 `111`
 ![](./img/post-sample-image.jpg)
 `111`
@@ -30,6 +36,10 @@ You could switch to source code mode temporary from menu bar, footer bar or shor
 `111`
 ![](/img/post-sample-image.jpg)
 `111`
+
+![image-20201226170058085](/in-post/2017-01-01-Quick Start/image-20201226170058085.png)
+
+![image-22065930844](../../img/in-post/2017-01-01-Quick Start/image-20201226165930844.png)
 
 ## Markdown For Typora
 
