@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "quick english4"
+title:      "quick english433232"
 subtitle:   " \"quick english4\""
 date:       2015-01-29 12:00:00
 author:     "Hux"
@@ -24,7 +24,7 @@ Thank you for choosing **Typora**. This document will help you to start Typora. 
 
 You could switch to source code mode temporary from menu bar, footer bar or short cut key (`ctrl+/`). But we only provide very basic support for source code mode and won't recommend users to do so.
 
-
+![](./img/post-sample-image.jpg)
 
 `111`
 
