@@ -23,9 +23,12 @@ Thank you for choosing **Typora**. This document will help you to start Typora. 
 **Note**: Markdown tags for inline styles, such as `**` will be hidden or displayed smartly. Markdown tags for block level styles, such as `###` or `- [x]` will be hidden once the block is rendered.
 
 You could switch to source code mode temporary from menu bar, footer bar or short cut key (`ctrl+/`). But we only provide very basic support for source code mode and won't recommend users to do so.
-
+`111`
 ![](./img/post-sample-image.jpg)
-
+`111`
+![](/img/in-post/post-eleme-pwa/PRECACHE-future-routes.jpg)
+`111`
+![](/img/post-sample-image.jpg)
 `111`
 
 ## Markdown For Typora
