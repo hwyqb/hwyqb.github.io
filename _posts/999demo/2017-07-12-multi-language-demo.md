@@ -5,6 +5,7 @@ subtitle:     "multi-language demo"
 date:         2017-07-12 12:00:00
 author:       "Xiao"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+# 标题图片蒙版
 header-mask:  0.3
 catalog:      true
 # 多语言支持
