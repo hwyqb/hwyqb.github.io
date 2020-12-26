@@ -9,6 +9,7 @@ tags:
   - 基础
   - C
   - C++
+  - 肖大侠
 ---
 
 In the last episode we talked about the data representation of integer, a kind
