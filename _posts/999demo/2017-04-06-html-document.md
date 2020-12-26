@@ -6,9 +6,8 @@ title: 如何理解 <code>javaScript</code>？
 subtitle: 如何理解 <code>javaScript</code>？
 # 作者
 author: "Xiao"
+# 设置头样式为text,不带图,header-img不生效
 header-style: text
-# 头图
-header-img: "img/common/post-bg/post-bg-web.jpg"
 # 标签
 tags:
   - Demo
@@ -16,7 +15,7 @@ tags:
 typora-root-url: ..\
 ---
 
-> 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/57601873/answer/155685476)
+> 这篇文章转载自[百度一下](http://www.baidu.com/)
 
 谢邀。
 
