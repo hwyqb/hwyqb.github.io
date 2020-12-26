@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "和我一起吧 Blog",
+  "short_name": "hwyqb Blog",
+  "description": "和我一起吧是专注Java后端开发的个人技术博客，用于个人技术积累和分享 | http://hwyqb.com/",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
