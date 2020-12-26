@@ -1,12 +1,17 @@
 ---
 layout: post
-title: 「知乎」如何理解 <code>document</code> 对象是 <code>HTMLDocument</code> 的实例？
-subtitle: Why is <code>document</code> an instance of <code>HTMLDocument</code>?
-author: "肖大侠"
+# 主标题
+title: 如何理解 <code>javaScript</code>？
+# 副标题
+subtitle: 如何理解 <code>javaScript</code>？
+# 作者
+author: "Xiao"
 header-style: text
+# 标签
 tags:
   - Web
   - 知乎
+# typora根目录
 typora-root-url: ..\
 ---
 
