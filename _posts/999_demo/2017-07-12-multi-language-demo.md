@@ -8,6 +8,8 @@ header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 # 标题图片蒙版
 header-mask:  0.3
 catalog:      true
+# 是否隐藏文章
+hidden: true
 # 多语言支持
 multilingual: true
 tags:

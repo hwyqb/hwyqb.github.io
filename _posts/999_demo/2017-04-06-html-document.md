@@ -8,6 +8,8 @@ subtitle: 如何理解 <code>javaScript</code>？
 author: "Xiao"
 # 设置头样式为text,不带图,header-img不生效
 header-style: text
+# 是否隐藏文章
+hidden: true
 # 标签
 tags:
   - Demo
