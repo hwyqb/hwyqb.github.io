@@ -7,6 +7,7 @@ author:       "Xiao"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true
+# 多语言支持
 multilingual: true
 tags:
     - Demo
