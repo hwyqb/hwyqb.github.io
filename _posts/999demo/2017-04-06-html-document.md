@@ -7,10 +7,11 @@ subtitle: 如何理解 <code>javaScript</code>？
 # 作者
 author: "Xiao"
 header-style: text
+# 头图
+header-img: "img/common/post-bg/post-bg-web.jpg"
 # 标签
 tags:
-  - Web
-  - 知乎
+  - Demo
 # typora根目录
 typora-root-url: ..\
 ---
