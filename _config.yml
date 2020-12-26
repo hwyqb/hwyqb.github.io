@@ -1,7 +1,7 @@
 # Site settings
 title: 和我一起吧 Blog
 SEOTitle: 和我一起吧 | hwyqb Blog
-header-img: img/common/home-bg.jpg
+header-img: img/common/home-bg/home-bg.jpg
 email: xjfme@qq.com
 description: "和我一起吧是专注Java后端开发的个人技术博客，用于个人技术积累和分享 | http://hwyqb.com/"
 keyword: "Java,后端开发,JVM,Spring,和我一起吧"
@@ -79,7 +79,7 @@ ga_domain: hwyqb.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/common/avatar-mayou.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/common/head-portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
