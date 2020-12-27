@@ -23,9 +23,6 @@ tags:
 typora-root-url: ..\..\
 ---
 
-[TOC]
-
-
 
 
 > 这是一篇模板文档
