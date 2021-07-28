@@ -1,9 +1,9 @@
 ---
 layout:     post
 # 主标题
-title:      "hwyqb bBog Template"
+title:      "Xiao Daxia Blog Template"
 # 副标题
-subtitle:   " \"hwyqb Blog Template\""
+subtitle:   " \"Xiao Daxia Blog Template\""
 # 写作时间
 date:       2020-12-27 12:00:00
 # 作者
@@ -29,7 +29,7 @@ typora-root-url: ..\..\
 
 ## 一、前言
 
-这是一篇`hwyqb blog`的模板文档。
+这是一篇`Xiao Daxia blog`的模板文档。
 
 ![img](/img/in-post/2020-12-27-hwyqb-blog-template/head-portrait.jpg)
 

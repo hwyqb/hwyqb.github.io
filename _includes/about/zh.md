@@ -1,4 +1,4 @@
-> 和我一起吧  http://hwyqb.com
+> Xiao Daxia Blog  http://blog.xjfuuu.com
 
 
 ### 关于作者

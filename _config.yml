@@ -1,11 +1,11 @@
 # Site settings
-title: 和我一起吧 Blog
-SEOTitle: 和我一起吧 | hwyqb Blog
+title: Xiao Daxia Blog
+SEOTitle: Xiao Daxia Blog | blog.xjfuuu.com
 header-img: img/common/home-bg/home-bg.jpg
-email: xjfme@qq.com
-description: "和我一起吧是专注Java后端开发的个人技术博客，用于个人技术积累和分享 | http://hwyqb.com/"
+email: xjfuuu@gmail.com
+description: "Xiao Daxia Blog 是专注Java后端开发的个人技术博客，用于个人技术积累和分享 | http://blog.xjfuuu.com/"
 keyword: "Java,后端开发,JVM,Spring,和我一起吧"
-url: "http://hwyqb.com"              # your host, for absolute URL
+url: "http://blog.xjfuuu.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     hwyqb
-zhihu_username:     hwyqb
-github_username:    hwyqb
-twitter_username:   hwyqb
+weibo_username:     xjfuuu
+zhihu_username:     xjfuuu
+github_username:    xjfuuu
+twitter_username:   xjfuuu
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -106,7 +106,7 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "和我一起吧",
-        href: "http://hwyqb.com/"
+        title: "Xiao Daxia Blog",
+        href: "http://blog.xjfuuu.com/"
     }
 ]
