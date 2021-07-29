@@ -20,7 +20,7 @@ multilingual: false
 tags:
     - Template
 # typora根目录
-#typora-root-url: ..\..\
+typora-root-url: ../../../
 ---
 
 

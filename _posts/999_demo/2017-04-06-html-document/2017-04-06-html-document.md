@@ -14,7 +14,7 @@ hidden: false
 tags:
   - Template
 # typora根目录
-typora-root-url: ..\
+typora-root-url: ../../../
 ---
 
 > 这篇文章转载自[百度一下](http://www.baidu.com/)
