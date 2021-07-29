@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hwyqb
+#disqus_username: hwyqb
 
 # Netease settings
 netease_comment: false
@@ -68,11 +68,11 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-ba_track_id: 2c68f5eb71eb40f2dc8f902b415ab050
+#ba_track_id: 2c68f5eb71eb40f2dc8f902b415ab050
 
 # Google Analytics
-ga_track_id: 'G-4N8019VT2X'            # Format: UA-xxxxxx-xx
-ga_domain: hwyqb.com
+#ga_track_id: 'G-4N8019VT2X'            # Format: UA-xxxxxx-xx
+#ga_domain: hwyqb.com
 
 
 
