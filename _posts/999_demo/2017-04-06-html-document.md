@@ -5,7 +5,7 @@ title: 如何理解 <code>javaScript</code>？
 # 副标题
 subtitle: 如何理解 <code>javaScript</code>？
 # 作者
-author: "Xiao"
+author: "xjfuuu"
 # 设置头样式为text,不带图,header-img不生效
 header-style: text
 # 是否隐藏文章

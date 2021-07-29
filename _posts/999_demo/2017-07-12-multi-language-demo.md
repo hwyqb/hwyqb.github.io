@@ -3,7 +3,7 @@ layout:       post
 title:        "multi-language demo"
 subtitle:     "multi-language demo"
 date:         2017-07-12 12:00:00
-author:       "Xiao"
+author:       "xjfuuu"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 # 标题图片蒙版
 header-mask:  0.3

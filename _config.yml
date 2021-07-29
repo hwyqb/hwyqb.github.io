@@ -1,9 +1,9 @@
 # Site settings
-title: Xiao Blog
-SEOTitle: Xiao Blog
+title: UU Blog
+SEOTitle: UU Blog #状态栏和SEO title
 header-img: img/common/home-bg/home-bg.jpg
 email: xjfuuu@gmail.com
-description: "Xiao Blog , 个人技术博客，用于技术积累和分享 | blog.xjfuuu.com"
+description: "UU Blog , 个人技术博客，用于技术积累和分享 | blog.xjfuuu.com"
 keyword: "Java,后端开发,JVM,Spring,xjfuuu"
 url: "http://blog.xjfuuu.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -106,7 +106,7 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "Xiao Blog",
+        title: "UU Blog",
         href: "http://blog.xjfuuu.com/"
     }
 ]

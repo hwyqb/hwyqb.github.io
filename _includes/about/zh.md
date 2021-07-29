@@ -1,4 +1,4 @@
-> Xiao Blog \| blog.xjfuuu.com
+> UU Blog \| blog.xjfuuu.com
 
 
 ### 关于作者

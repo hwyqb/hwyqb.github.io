@@ -1,7 +1,7 @@
 {
-  "name": "Xiao Blog",
-  "short_name": "Xiao Blog",
-  "description": "Xiao Blog , 个人技术博客，用于技术积累和分享 | blog.xjfuuu.com",
+  "name": "UU Blog",
+  "short_name": "UU Blog",
+  "description": "UU Blog , 个人技术博客，用于技术积累和分享 | blog.xjfuuu.com",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
