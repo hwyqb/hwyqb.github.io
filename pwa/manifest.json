@@ -1,7 +1,7 @@
 {
-  "name": "Xiao Daxia Blog",
-  "short_name": "Xiao Daxia Blog",
-  "description": "Xiao Daxia Blog 是专注Java后端开发的个人技术博客，用于个人技术积累和分享 | http://hwyqb.com/",
+  "name": "Xiao Blog",
+  "short_name": "Xiao Blog",
+  "description": "Xiao Blog , 个人技术博客，用于技术积累和分享 | blog.xjfuuu.com",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
