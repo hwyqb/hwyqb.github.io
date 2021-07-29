@@ -1,9 +1,9 @@
-> Xiao Daxia Blog  http://blog.xjfuuu.com
+> Xiao Blog \| blog.xjfuuu.com
 
 
 ### 关于作者
-- **姓名：** 肖大侠
-- **邮箱：** xjfme@qq.com
+- **姓名：** xjfuuu
+- **邮箱：** xjfuuu@gmail.com
 
 ### 工作经历
 
