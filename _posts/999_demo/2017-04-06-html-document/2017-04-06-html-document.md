@@ -9,10 +9,10 @@ author: "xjfuuu"
 # 设置头样式为text,不带图,header-img不生效
 header-style: text
 # 是否隐藏文章
-hidden: true
+hidden: false
 # 标签
 tags:
-  - Demo
+  - Template
 # typora根目录
 typora-root-url: ..\
 ---

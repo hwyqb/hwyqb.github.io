@@ -7,7 +7,7 @@ subtitle:   " \"UU Blog Template\""
 # 写作时间
 date:       2020-12-27 12:00:00
 # 作者
-author:     "肖大侠"
+author:     "xjfuuu"
 # 头图
 header-img: "img/common/post-bg/post-bg-universe.jpg"
 # 是否目录
@@ -20,7 +20,7 @@ multilingual: false
 tags:
     - Template
 # typora根目录
-typora-root-url: ..\..\
+#typora-root-url: ..\..\
 ---
 
 
